@@ -1,0 +1,7 @@
+{
+"name":"analytics",
+"private":true,
+"scripts":{
+"dev":"python app.py"
+}
+}

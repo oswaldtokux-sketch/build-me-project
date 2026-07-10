@@ -1,0 +1,8 @@
+{
+  "name": "@build-me/config",
+  "version": "1.0.0",
+  "private": true,
+  "scripts":{
+"build":"echo utils build complete"
+}
+}
